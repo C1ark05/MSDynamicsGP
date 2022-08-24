@@ -1,2 +1,2 @@
 # MSDynamicsGP
-MS Dynamics GP Scripts
+MS Dynamics GP SQL Scripts
